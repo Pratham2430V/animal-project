@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(52, 49, 49);
+  color: black;
+}
+h1 {
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  border: 2px solid black;
+  font-family: "Montenegrin Gothic One", serif;
+}
+h2 {
+  background-color: cyan;
+  border: 2px solid black;
+  border-radius: 9px;
+  padding: 10px;
+  display: inline-block;
+  margin-top: 7px;
+}
+img {
+  display: block;
+  border: 2px solid black;
+  margin: auto;
+  width: 800px;
+  margin-bottom: 20px;
+}
+.p {
+  font-family: "Lora", serif;
+  background-color: #ff9494;
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid black;
+  margin: auto;
+}
