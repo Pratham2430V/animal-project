@@ -1,10 +1,10 @@
 body {
   background-color: rgb(52, 49, 49);
-  color: black;
+  color: rgb(0, 0, 0);
 }
 h1 {
   text-align: center;
-  background-color: white;
+  background-color: whitesmoke;
   padding: 20px;
   border-radius: 8px;
   border: 2px solid black;
