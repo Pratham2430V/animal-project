@@ -44,3 +44,8 @@ a {
   border-radius: 8px;
   margin: 10px;
 }
+footer {
+  background-color: skyblue;
+  border-radius: 8px;
+  border: 2px solid black;
+}
